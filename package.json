@@ -1,0 +1,19 @@
+{
+  "name": "rollouter",
+  "version": "1.0.0",
+  "description": "Simple distributed feature flags/AB tests lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vshuhaiev/rollouter.git"
+  },
+  "author": "Volodymyr Shuhaiev <volodymyr.shuhaiev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vshuhaiev/rollouter/issues"
+  },
+  "homepage": "https://github.com/vshuhaiev/rollouter#readme"
+}
